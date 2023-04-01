@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wave-catcher
 - 👀 I’m interested in Stocks trading
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, MySQL
 - 💞️ I’m looking to collaborate on Python developers
 - 📫 How to reach me telegram: @wave_catcher
 
